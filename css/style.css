@@ -11,4 +11,6 @@ i:hover{
 .btn:hover{
     background-color: orangered;
 }
-
+.nav-link:hover{
+    color: orangered;
+}
